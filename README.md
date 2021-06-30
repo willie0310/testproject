@@ -1,2 +1,2 @@
 # testproject
-hihi
+print("seeeeeeee")
