@@ -1,4 +1,5 @@
 # testproject
+
 bgf nndgn
 g gdhngdh
 nngdhnb
@@ -13,3 +14,13 @@ gdhn
    jyjyrjyu
    ymym
    yumyumyu
+
+
+
+print("seeeeeeee")
+
+print("hahaha")
+print("bye")
+
+
+
