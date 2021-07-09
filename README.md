@@ -10,3 +10,6 @@ gdhn
    
    gf 
    f 
+   jyjyrjyu
+   ymym
+   yumyumyu
